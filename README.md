@@ -24,3 +24,14 @@ Ten projekt zawiera kompletną eksploracyjną analizę danych (EDA) na klasyczny
 
 ## Autor
 Analiza przygotowana w ramach nauki eksploracji danych i uczenia maszynowego.
+
+## Przykładowe zdjęcia badanych gatunków irysów
+
+Poniżej przedstawiono przykładowe zdjęcia trzech gatunków irysów analizowanych w projekcie:
+
+| Iris-setosa | Iris-versicolor | Iris-virginica |
+|:-----------:|:---------------:|:--------------:|
+| ![Iris-setosa](https://upload.wikimedia.org/wikipedia/commons/4/41/Iris_setosa_2.jpg) | ![Iris-versicolor](https://upload.wikimedia.org/wikipedia/commons/9/9f/Iris_versicolor_3.jpg) | ![Iris-virginica](https://upload.wikimedia.org/wikipedia/commons/5/56/Iris_virginica.jpg) |
+| *Iris-setosa* | *Iris-versicolor* | *Iris-virginica* |
+
+Każdy z tych gatunków posiada charakterystyczne cechy morfologiczne, które są analizowane w notebooku.
