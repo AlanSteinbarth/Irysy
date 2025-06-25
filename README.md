@@ -29,10 +29,9 @@ Analiza przygotowana w ramach nauki eksploracji danych i uczenia maszynowego.
 
 Poniżej przedstawiono przykładowe zdjęcia trzech gatunków irysów analizowanych w projekcie:
 
-| Iris-setosa | Iris-versicolor | Iris-virginica |
-|:-----------:|:---------------:|:--------------:|
-| ![Iris-setosa](Foto/Iris-setosa.jpg) | ![Iris-versicolor](Foto/Iris-versicolor.jpg) | ![Iris-virginica](Foto/Iris-virginica.jpg) |
-| *Iris-setosa* | *Iris-versicolor* | *Iris-virginica* |
+| Iris-setosa | Iris-virginica | Iris-versicolor |
+|:-----------:|:--------------:|:---------------:|
+| ![Iris-setosa](Foto/Iris-setosa.jpg) | ![Iris-virginica](Foto/Iris-virginica.jpg) | ![Iris-versicolor](Foto/Iris-versicolor.jpg) |
 
 Każdy z tych gatunków posiada charakterystyczne cechy morfologiczne, które są analizowane w notebooku.
 
