@@ -5,9 +5,17 @@
 Ten projekt zawiera kompletną eksploracyjną analizę danych (EDA) na klasycznym zbiorze danych Irysy .
 
 ## Zawartość
-- Notebook `Irysy.ipynb` z kompletną analizą, wizualizacjami i modelami ML
-- Plik `iris.csv` z danymi
-- Plik `requirements.txt` z listą wymaganych bibliotek
+Repozytorium zawiera:
+- Notebook `Irysy.ipynb` z kompletną eksploracyjną analizą danych (EDA), wizualizacjami i modelami ML
+- Plik `iris.csv` z danymi źródłowymi
+- Folder `results/` z przykładowymi wykresami wygenerowanymi podczas analizy (histogramy, heatmapa, macierz pomyłek i inne)
+- Folder `Foto/` z okładką projektu oraz zdjęciami trzech gatunków irysów
+- Plik `requirements.txt` z wersjami wymaganych bibliotek (pandas, numpy, matplotlib, seaborn, scikit-learn)
+- Plik `.gitignore` ignorujący pliki tymczasowe i środowiskowe
+- Plik `LICENSE` (MIT License)
+- Rozbudowane `README.md` z instrukcją uruchomienia, badge, sekcją demo (Colab), kontaktami, przykładowymi wynikami i checklistą EDA
+
+Każdy z tych elementów wspiera czytelność, powtarzalność i prezentację projektu w portfolio.
 
 ## Jak uruchomić
 1. Zainstaluj wymagane biblioteki:
@@ -32,13 +40,11 @@ Możesz też pobrać repozytorium i uruchomić notebook lokalnie zgodnie z instr
 - seaborn
 - scikit-learn
 
-## Autor
-Analiza przygotowana w ramach nauki eksploracji danych i uczenia maszynowego.
-
 ## Kontakt
 
-Autor: Alan Steinbarth  
-[GitHub](https://github.com/AlanSteinbarth)
+[![GitHub](https://img.shields.io/badge/GitHub-AlanSteinbarth-181717?logo=github&style=flat-square)](https://github.com/AlanSteinbarth)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Obserwuj-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/alansteinbarth)
+[![Email](https://img.shields.io/badge/E--mail-alan.steinbarth@gmail.com-red?logo=gmail&style=flat-square)](mailto:alan.steinbarth@gmail.com)
 
 Chętnie odpowiem na pytania dotyczące projektu lub współpracy!
 
