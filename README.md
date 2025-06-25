@@ -31,7 +31,9 @@ Poniżej przedstawiono przykładowe zdjęcia trzech gatunków irysów analizowan
 
 | Iris-setosa | Iris-versicolor | Iris-virginica |
 |:-----------:|:---------------:|:--------------:|
-| ![Iris-setosa](https://upload.wikimedia.org/wikipedia/commons/4/41/Iris_setosa_2.jpg) | ![Iris-versicolor](https://upload.wikimedia.org/wikipedia/commons/9/9f/Iris_versicolor_3.jpg) | ![Iris-virginica](https://upload.wikimedia.org/wikipedia/commons/5/56/Iris_virginica.jpg) |
+| ![Iris-setosa](Foto/Iris-setosa.jpg) | ![Iris-versicolor](Foto/Iris-versicolor.jpg) | ![Iris-virginica](Foto/Iris-virginica.jpg) |
 | *Iris-setosa* | *Iris-versicolor* | *Iris-virginica* |
 
 Każdy z tych gatunków posiada charakterystyczne cechy morfologiczne, które są analizowane w notebooku.
+
+**Źródło zdjęć:** Wszystkie zdjęcia irysów pochodzą z Wikipedii (https://pl.wikipedia.org/wiki/Irys_(ro%C5%9Blina)). Wykorzystane zgodnie z licencją Wikimedia Commons. Jeśli wykorzystujesz ten projekt, pamiętaj o zachowaniu informacji o autorach i licencji zdjęć.
