@@ -1,6 +1,8 @@
-# Eksploracyjna Analiza Danych (EDA) – Irysy
+![Okładka projektu](Foto/cover.png)
 
-Ten projekt zawiera kompletną eksploracyjną analizę danych (EDA) na klasycznym zbiorze danych Iris (Irysy).
+# 🪻 Irysy 🌼 - Eksploracyjna Analiza Danych (EDA)
+
+Ten projekt zawiera kompletną eksploracyjną analizę danych (EDA) na klasycznym zbiorze danych Irysy .
 
 ## Zawartość
 - Notebook `Irysy.ipynb` z kompletną analizą, wizualizacjami i modelami ML
@@ -25,9 +27,9 @@ Ten projekt zawiera kompletną eksploracyjną analizę danych (EDA) na klasyczny
 ## Autor
 Analiza przygotowana w ramach nauki eksploracji danych i uczenia maszynowego.
 
-## Przykładowe zdjęcia badanych gatunków irysów
+## Przykładowe zdjęcia badanych gatunków Irysów 
 
-Poniżej przedstawiono przykładowe zdjęcia trzech gatunków irysów analizowanych w projekcie:
+Poniżej przedstawiono przykładowe zdjęcia trzech gatunków Irysów analizowanych w projekcie:
 
 | Iris-setosa | Iris-virginica | Iris-versicolor |
 |:-----------:|:--------------:|:---------------:|
